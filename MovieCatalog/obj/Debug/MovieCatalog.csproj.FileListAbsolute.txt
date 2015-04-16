@@ -1,0 +1,124 @@
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\MovieCatalog.dll.config
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\MovieCatalog.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\MovieCatalog.pdb
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Antlr3.Runtime.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\EntityFramework.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\EntityFramework.SqlServer.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Newtonsoft.Json.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.Web.Common.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.Web.Mvc.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Owin.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Helpers.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Mvc.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Optimization.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Razor.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\WebActivatorEx.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\WebGrease.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.Web.Common.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.Web.Mvc.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Helpers.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Mvc.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Optimization.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Razor.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Antlr3.Runtime.pdb
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Newtonsoft.Json.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\EntityFramework.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\EntityFramework.SqlServer.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\obj\Debug\MovieCatalog.dll
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\obj\Debug\MovieCatalog.pdb
+C:\Users\Imran Ahmed\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\obj\Debug\MovieCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\MovieCatalog.dll.config
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\MovieCatalog.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\MovieCatalog.pdb
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Antlr3.Runtime.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\EntityFramework.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\EntityFramework.SqlServer.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Newtonsoft.Json.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.Web.Common.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.Web.Mvc.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Owin.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Helpers.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Mvc.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Optimization.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Razor.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\WebActivatorEx.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\WebGrease.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.Web.Common.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Ninject.Web.Mvc.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Helpers.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Mvc.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Optimization.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.Razor.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Antlr3.Runtime.pdb
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Newtonsoft.Json.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\EntityFramework.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\EntityFramework.SqlServer.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\obj\Debug\MovieCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\obj\Debug\MovieCatalog.dll
+C:\Users\Imran\Documents\Visual Studio 2013\Projects\MovieCatalog\MovieCatalog\obj\Debug\MovieCatalog.pdb

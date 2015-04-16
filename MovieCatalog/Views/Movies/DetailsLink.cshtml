@@ -1,0 +1,17 @@
+﻿@model MovieCatalog.Models.Movie
+
+@{
+    ViewBag.Title = "Movie Details";
+}
+
+<h2>Movie Details</h2>
+
+<div>
+
+    @Html.Partial("_DetailsDelete")
+
+</div>
+<p>
+    @Html.ActionLink("Back to List", "MovieLink")
+</p>
+

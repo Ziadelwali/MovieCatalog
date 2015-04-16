@@ -1,0 +1,27 @@
+﻿@model MovieCatalog.Models.Movie
+
+<div class="form-group" id="myCssClass">
+    <label>Title:</label>
+    @Html.TextBoxFor(s => s.Title, new { @class = "form-control" })
+</div>
+<div class="myCssClass form-group">
+    <label>Starring:</label>
+    @Html.TextBoxFor(s => s.Starring, new { @class = "form-control" })
+</div>
+<div class="myCssClass form-group">
+    <label>Director:</label>
+    @Html.TextBoxFor(s => s.Director, new { @class = "form-control" })
+</div>
+<div class="myCssClass form-group">
+    <label>Year:</label>
+    @Html.TextBoxFor(s => s.Year, new { @class = "form-control" })
+</div>
+<div class="myCssClass form-group">
+    <label>Genre:</label>
+    @Html.TextBoxFor(s => s.Genre, new { @class = "form-control" })
+</div>
+
+<input type="file" name="movieImage" />
+<hr/>
+<input type="submit" class="btn btn-success" value="Save" />
+

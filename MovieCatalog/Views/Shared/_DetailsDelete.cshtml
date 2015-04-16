@@ -1,0 +1,50 @@
+﻿@model MovieCatalog.Models.Movie
+
+<dl class="dl-horizontal">
+    <dt>
+        @Html.DisplayNameFor(model => model.Title)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.Title)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.Starring)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.Starring)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.Director)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.Director)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.Year)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.Year)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.Genre)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.Genre)
+    </dd>
+
+    <dd>
+        <hr/>
+        <img src="@Model.MovieImagePath" alt="Movie Image" />
+    </dd>
+
+</dl>
+

@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MovieCatalog.Models.Movie>
+
+@using MovieCatalog.Models;
+
+@{
+    ViewBag.Title = "Movie List";
+}
+
+<h2>Movie List</h2>
+<ul>
+    @foreach (Movie movie in @Model)
+    {
+        <li>
+            @Html.ActionLink(movie.Title, "DetailsLink", new { id = movie.MovieID })
+        </li>
+    }
+</ul>
+
